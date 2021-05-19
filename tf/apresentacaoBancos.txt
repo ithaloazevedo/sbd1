@@ -1,0 +1,15 @@
+
+SLIDE 1
+Olá, nós somos o grupo 2B. Os integrantes do nosso grupo são o Igor, Lucas, Kleidson e eu Ithalo. O nosso tema é o tema 2 que é a farmácia do posto de saúde. 
+
+SLIDE 2
+Na nossa apresentação vamos abordar alguns contéudos como: os principais requisitos do projeto, as vantagens do projeto para o negócio do cliente, as vantagens do banco de dados e os aspectos positivos e negativos do trabalho desenvolvido por nós estudantes.
+
+SLIDE 3
+Eu vou começar falando sobre os requisitos.
+
+SLIDE 4
+Bom, para o nosso sistema o principal requisito que identificamos foi o cadastro de pacientes. Para isso, nós selecionamos os dados pessoais do paciente, medicamentos e produtos adquiridos e os pedidos da farmácia interna do paciente ah e também as informações das receitas dos pacientes.
+
+SLIDE 5
+Outro requisito importante foi o controle do estoque de produtos. E para esse controle, são importantes os dados do produto (código, nome e a quantidade de cada produto no estoque), e os pedidos de produto realizados com a quantidade solicitada e a quantidade entregue.
